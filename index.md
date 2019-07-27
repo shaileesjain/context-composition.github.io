@@ -1,6 +1,6 @@
 # Context and Compositionality in Biological and Artificial Neural Systems 
-## NeurIPS 2019 Workshop, Vancouver, Canada
-### December 2019
+#### NeurIPS 2019 Workshop, Vancouver, Canada
+##### December 2019
 
 
 ## Introduction
