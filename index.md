@@ -17,6 +17,18 @@ In this workshop we aim to bring together researchers from machine learning, NLP
 * Workshop Date: December 13th or 14th, 2019
 
 ## Call for Papers
+We will consider the following (non-exhaustive) list of topics for contribution:
+- Contextual sequence processing in the human brain
+- Compositional representations in the human brain
+- Systematic generalization in deep learning
+- Compositionality in human intelligence
+- Compositionality in natural language
+- Understanding composition and temporal processing in neural network models
+- New approaches to compositionality and temporal processing in language
+- Hierarchical representations of temporal information
+- Datasets for contextual sequence processing
+- Applications of compositional neural networks to real-world problems
+
 
 ## Schedule
 
