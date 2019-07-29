@@ -61,5 +61,5 @@ We will consider the following (non-exhaustive) list of topics for contribution:
 9. A. G. Huth, W. A. de Heer, T. L. Griffiths, F. E. Theunissen, and J. L. Gallant. Natural speech reveals the semantic maps that tile human cerebral cortex. Nature, 532(7600):453–458, 2016.
 10. C. Baldassano, J. Chen, A. Zadbood, J. W. Pillow, U. Hasson, and K. A. Norman. Discovering event structure in continuous narrative perception and memory. Neuron, 95(3):709 – 721.e5,2017.
 11. K. D. Himberger, H.-Y. Chien, and C. J. Honey. Principles of temporal processing across thecortical hierarchy. Neuroscience, 389:161 – 174, 2018.  Sensory Sequence Processing in the Brain.
-12. L. Wehbe, B. Murphy, P. Talukdar, A. Fyshe, A. Ramdas, and T. Mitchell.  Simultaneously uncovering the patterns of brain regions involved in different story reading subprocesses. PLOS ONE, 9(11):1–19, 11 2014.
+12. L. Wehbe, A. Vaswani, K. Knight, and T. Mitchell.  Aligning context-based statistical models of language with brain activity during reading. In EMNLP, 2014.
 13. S. Jain and A. Huth. Incorporating context into language encoding models for fmri. In Advances in Neural Information Processing Systems 31, pages 6628–6637, 2018.
