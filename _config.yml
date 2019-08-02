@@ -5,3 +5,4 @@ description: NeurIPS 2019 Workshop
 show_sidebar: false
 menubar: menu
 tabs: menu
+markdown: kramdown
