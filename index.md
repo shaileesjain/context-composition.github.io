@@ -69,3 +69,4 @@ We will consider the following (non-exhaustive) list of topics for contribution:
 11. K. D. Himberger, H.-Y. Chien, and C. J. Honey. Principles of temporal processing across thecortical hierarchy. Neuroscience, 389:161 – 174, 2018.  Sensory Sequence Processing in the Brain.
 12. L. Wehbe, A. Vaswani, K. Knight, and T. Mitchell.  Aligning context-based statistical models of language with brain activity during reading. In EMNLP, 2014.
 13. S. Jain and A. Huth. Incorporating context into language encoding models for fmri. In Advances in Neural Information Processing Systems 31, pages 6628–6637, 2018.
+14. Y. Lerner, C. J. Honey, L. J. Silbert, and U. Hasson. Topographic Mapping of a Hierarchy of Temporal Receptive Windows Using a Narrated Story. Journal of Neuroscience 23 February 2011, 31 (8) 2906-2915.
