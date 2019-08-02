@@ -42,15 +42,15 @@ We will consider the following (non-exhaustive) list of topics for contribution:
 
 ## Organizers
 
-- Javier Turek (Intel Labs)
-- Alex Huth (The University of Texas at Austin)
-- Shailee Jain (The University of Texas at Austin)
-- Chris Honey (Johns Hopkins University)
-- Tal Linzen (Johns Hopkins University)
-- Alan Yuille (Johns Hopkins University)
-- Emma Strubell (Carnegie Mellon University)
-- Kyunghyun Cho (New York University)
-- Leila Wehbe (Carnegie Mellon University)
+- Javier Turek, Intel Labs
+- Alex Huth, The University of Texas at Austin
+- Shailee Jain, The University of Texas at Austin
+- Chris Honey, Johns Hopkins University
+- Tal Linzen, Johns Hopkins University
+- Alan Yuille, Johns Hopkins University
+- Emma Strubell, Carnegie Mellon University
+- Kyunghyun Cho, New York University
+- Leila Wehbe, Carnegie Mellon University
 
 
 ## Sponsors
