@@ -34,6 +34,12 @@ We will consider the following (non-exhaustive) list of topics for contribution:
 
 ## Invited Speakers
 
+- [Prof. Yoshua Bengio](https://mila.quebec/en/yoshua-bengio/), MILA - University of Montreal
+- [Prof. Patricia Churchland](https://patriciachurchland.com/), University of California San Diego
+- [Prof. Liina Pylkkänen](https://wp.nyu.edu/neurolinglab/people/liina-pylkkanen/), New York University
+- [Prof. Gina Kuperberg](https://projects.iq.harvard.edu/kuperberglab/people/gina-r-kuperberg) Tufts University and Massachusetts General Hospital
+- More to be announced...
+
 ## Organizers
 
 - Javier Turek (Intel Labs)
