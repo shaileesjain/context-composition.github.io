@@ -53,11 +53,6 @@ We will consider the following (non-exhaustive) list of topics for contribution:
 - Kyunghyun Cho, New York University
 - Leila Wehbe, Carnegie Mellon University
 
-|:-:|:-:|:-:|
-| Javier Turek | Alex Huth | Shailee Jain |
-| Chris Honey | Tal Linzen | Alan Yuille |
-| Emma Strubell | Leila Wehbe | Kyunghyun Cho |
-
 ## Sponsors
 
 ## References
