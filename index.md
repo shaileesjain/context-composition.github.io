@@ -62,7 +62,7 @@ Please redirect questions and all future correspondence to [shaileejain@utexas.e
 - Tal Linzen, Johns Hopkins University
 - Alan Yuille, Johns Hopkins University
 - Emma Strubell, Carnegie Mellon University
-- Kyunghyun Cho, New York University
+- Kyunghyun Cho, Facebook and New York University
 - Leila Wehbe, Carnegie Mellon University
 
 ## Sponsors
