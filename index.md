@@ -12,9 +12,10 @@ In this workshop we aim to bring together researchers from machine learning, NLP
 
 
 ## Important Dates
+
 |---
 | Name | Date 
-|:------ |: ------ 
+|:------ |:------ 
 | Paper Submission Deadline | September 9th, 2019 
 | Final Decisions | September 29th, 2019
 | Workshop Date | December 13th or 14th, 2019
