@@ -1,4 +1,4 @@
-<!-- # Context and Compositionality in Biological and Artificial Neural Systems -->
+# Context and Compositionality in Biological and Artificial Neural Systems
 #### [NeurIPS 2019](https://neurips.cc) Workshop, Vancouver, Canada
 ##### December 2019
 
