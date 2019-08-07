@@ -1,4 +1,4 @@
-# Context and Compositionality in Biological and Artificial Neural Systems 
+<!-- # Context and Compositionality in Biological and Artificial Neural Systems -->
 #### [NeurIPS 2019](https://neurips.cc) Workshop, Vancouver, Canada
 ##### December 2019
 
@@ -50,7 +50,7 @@ Please redirect questions and all future correspondence to [shaileejain@utexas.e
 - [Prof. Yoshua Bengio](https://mila.quebec/en/yoshua-bengio/), MILA - University of Montreal
 - [Prof. Patricia Churchland](https://patriciachurchland.com/), University of California San Diego
 - [Prof. Liina Pylkkänen](https://wp.nyu.edu/neurolinglab/people/liina-pylkkanen/), New York University
-- [Prof. Gina Kuperberg](https://projects.iq.harvard.edu/kuperberglab/people/gina-r-kuperberg) Tufts University and Massachusetts General Hospital
+- [Prof. Gina Kuperberg](https://projects.iq.harvard.edu/kuperberglab/people/gina-r-kuperberg), Tufts University and Massachusetts General Hospital
 - More to be announced...
 
 ## Organizers
