@@ -51,6 +51,7 @@ Please redirect questions and all future correspondence to [shaileejain@utexas.e
 - [Prof. Patricia Churchland](https://patriciachurchland.com/), University of California San Diego
 - [Prof. Liina Pylkkänen](https://wp.nyu.edu/neurolinglab/people/liina-pylkkanen/), New York University
 - [Prof. Gina Kuperberg](https://projects.iq.harvard.edu/kuperberglab/people/gina-r-kuperberg), Tufts University and Massachusetts General Hospital
+- [Prof. Tom Mitchell](http://www.cs.cmu.edu/~tom/), Carnegie Mellon University
 - More to be announced...
 
 ## Organizers
