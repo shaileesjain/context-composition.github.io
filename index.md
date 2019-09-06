@@ -52,7 +52,10 @@ Please redirect questions and all future correspondence to [shaileejain@utexas.e
 - [Prof. Liina Pylkkänen](https://wp.nyu.edu/neurolinglab/people/liina-pylkkanen/), New York University
 - [Prof. Gina Kuperberg](https://projects.iq.harvard.edu/kuperberglab/people/gina-r-kuperberg), Tufts University and Massachusetts General Hospital
 - [Prof. Tom Mitchell](http://www.cs.cmu.edu/~tom/), Carnegie Mellon University
-- More to be announced...
+- [Prof. Evelina Fedorenko](https://evlab.mit.edu), MIT
+- [Prof. Paul Smolensky](https://cogsci.jhu.edu/directory/paul-smolensky/), Johns Hopkins University
+- [Prof. Gary Marcus](http://garymarcus.com), New York University and Robust.AI
+- [Kenton Lee](https://kentonl.com), Google
 
 ## Organizers
 
