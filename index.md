@@ -47,14 +47,14 @@ Please redirect questions and all future correspondence to [shaileejain@utexas.e
 
 ## Invited Speakers
 
-- [Prof. Yoshua Bengio](https://mila.quebec/en/yoshua-bengio/), MILA - University of Montreal
-- [Prof. Patricia Churchland](https://patriciachurchland.com/), University of California San Diego
-- [Prof. Liina Pylkkänen](https://wp.nyu.edu/neurolinglab/people/liina-pylkkanen/), New York University
-- [Prof. Gina Kuperberg](https://projects.iq.harvard.edu/kuperberglab/people/gina-r-kuperberg), Tufts University and Massachusetts General Hospital
-- [Prof. Tom Mitchell](http://www.cs.cmu.edu/~tom/), Carnegie Mellon University
-- [Prof. Evelina Fedorenko](https://evlab.mit.edu), MIT
-- [Prof. Paul Smolensky](https://www.microsoft.com/en-us/research/people/psmo/), Johns Hopkins University and Microsoft Research
-- [Prof. Gary Marcus](http://garymarcus.com), New York University and Robust.AI
+- [Yoshua Bengio](https://mila.quebec/en/yoshua-bengio/), MILA - University of Montreal
+- [Patricia Churchland](https://patriciachurchland.com/), University of California San Diego
+- [Liina Pylkkänen](https://wp.nyu.edu/neurolinglab/people/liina-pylkkanen/), New York University
+- [Gina Kuperberg](https://projects.iq.harvard.edu/kuperberglab/people/gina-r-kuperberg), Tufts University and Massachusetts General Hospital
+- [Tom Mitchell](http://www.cs.cmu.edu/~tom/), Carnegie Mellon University
+- [Evelina Fedorenko](https://evlab.mit.edu), MIT
+- [Paul Smolensky](https://www.microsoft.com/en-us/research/people/psmo/), Johns Hopkins University and Microsoft Research
+- [Gary Marcus](http://garymarcus.com), New York University and Robust.AI
 - [Kenton Lee](https://kentonl.com), Google
 
 ## Organizers
