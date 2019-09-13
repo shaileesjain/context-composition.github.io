@@ -1,6 +1,6 @@
 # Context and Compositionality in Biological and Artificial Neural Systems
 #### [NeurIPS 2019](https://neurips.cc) Workshop, Vancouver, Canada
-##### December 2019
+##### December 14th, 2019
 
 
 ## Introduction
@@ -18,7 +18,7 @@ In this workshop we aim to bring together researchers from machine learning, NLP
 |:------ |:------ 
 | Paper Submission Deadline | Update: September 13th, 2019 (23:59 hours, GMT-10/Hawaii-Aleutian Standard Time) ~~September 9th, 2019~~ 
 | Final Decisions | September 29th, 2019
-| Workshop Date | December 13th or 14th, 2019
+| Workshop Date | December 14th, 2019
 
 ## Call for Papers
 Submit at: [https://cmt3.research.microsoft.com/CNTXTCOMP2019/](https://cmt3.research.microsoft.com/CNTXTCOMP2019/)
