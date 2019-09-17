@@ -65,7 +65,7 @@ Please redirect questions and all future correspondence to [shaileejain@utexas.e
 - Chris Honey, Johns Hopkins University
 - Tal Linzen, Johns Hopkins University
 - Alan Yuille, Johns Hopkins University
-- Emma Strubell, Carnegie Mellon University
+- Emma Strubell, Facebook and Carnegie Mellon University
 - Kyunghyun Cho, Facebook and New York University
 - Leila Wehbe, Carnegie Mellon University
 
