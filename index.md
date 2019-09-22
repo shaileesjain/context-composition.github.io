@@ -69,6 +69,24 @@ Please redirect questions and all future correspondence to [shaileejain@utexas.e
 - Kyunghyun Cho, Facebook and New York University
 - Leila Wehbe, Carnegie Mellon University
 
+## Program Committee
+
+- Abhijit Mahabal, Pinterest
+- Cassandra	Jacobs, University of California Davis
+- Chris Baldassano, Columbia University
+- Cory Shain, The Ohio State University
+- Emily Mugler, Facebook
+- Evelina Fedorenko, Massachusetts Institute of Technology
+- Guangyu Robert Yang, Columbia University
+- Jascha Sohl-Dickstein, Google Brain
+- Jun Tani, Okinawa Institute of Science and Technology Graduate University
+- Katrin Erk, University of Texas
+- Kenji Doya, Okinawa Institute of Science and Technology
+- Liberty Hamilton, The University of Texas at Austin
+- Samuel Bowman, NYU and Google Research
+- Shimon Edelman, Cornell University
+- Vy Vo, Intel Labs
+
 ## Sponsors
 
 ## References
