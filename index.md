@@ -85,6 +85,7 @@ Please redirect questions and all future correspondence to [shaileejain@utexas.e
 - Liberty Hamilton, The University of Texas at Austin
 - Samuel Bowman, NYU and Google Research
 - Shimon Edelman, Cornell University
+- Srini Narayanan, Google AI Language
 - Vy Vo, Intel Labs
 
 ## Sponsors
