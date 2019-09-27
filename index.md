@@ -72,7 +72,7 @@ Please redirect questions and all future correspondence to [shaileejain@utexas.e
 ## Program Committee
 
 - Abhijit Mahabal, Pinterest
-- Cassandra	Jacobs, University of California Davis
+- Cassandra	Jacobs, University of Wisconsin
 - Chris Baldassano, Columbia University
 - Cory Shain, The Ohio State University
 - Emily Mugler, Facebook
