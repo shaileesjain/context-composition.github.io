@@ -57,6 +57,65 @@ Please redirect questions and all future correspondence to [shaileejain@utexas.e
 - [Gary Marcus](http://garymarcus.com), New York University and Robust.AI
 - [Kenton Lee](https://kentonl.com), Google
 
+## Accepted Papers
+1.  Self-Organization of Action Hierarchy and Compositionality by Reinforcement Learning with
+    Recurrent Networks
+    Dongqi Han, Kenji Doya, Jun Tani
+2.  Multi-Context Term Embeddings: the Use Case of Corpus-based Term Set Expansion
+    Jonathan Mamou
+3.  Learning Compositional Rules via Neural Program Synthesis
+    Maxwell Nye, Armando Solar-Lezama, Joshua Tenenbaum, Brenden Lake
+4.  Spiking Recurrent Networks as a Model to Probe Neuronal Timescales Specific to Working Memory
+    Robert Kim, Terry Sejnowski
+5.  Localizing Occluders with Compositional Convolutional Networks
+    Adam Kortylewski, Qing Liu,  Huiyu Wang, Zhishuai Zhang, Alan Yuille
+6.  Why Attention? Analyzing and Remedying BiLSTM Deficiency in Modeling Cross-Context for NER
+    Peng-Hsuan Li, Tsu-Jui Fu, Wei-yun Ma
+7.  A crossover code for high-dimensional composition
+    Rich Pang
+8.  Radically Compositional Cognitive Concepts
+    Toby St Clere Smithe
+9.  A memory enhanced LSTM for modeling complex temporal dependencies
+    Sneha Aenugu
+10. Towards Generation of Visual Attention Map for Source Code
+    Takeshi D Itoh, Takatomi Kubo, Kiyoka Ikeda, Yuki Maruno, Yoshiharu Ikutani, Hideaki Hata, Kenichi 
+    Matsumoto, Kazushi Ikeda
+11. Long-Distance Dependencies don’t have to be Long: Simplifying through Provably (Approximately)
+    Optimal Permutations
+    Rishi Bommasani
+12. A representational asymmetry for composition in the human left-middle temporal gyrus
+    Steven Frankland
+13. Uncovering the compositional structure of vector representations with Role Learning Networks
+    Paul Soulos, R. Thomas Mccoy, Tal Linzen, Paul Smolensky
+14. Modelling the N400 brain potential as change in a probabilistic representation of meaning
+    Milena Rabovsky, Steven Hansen, James McClelland
+15. Interpreting and improving natural-language processing (in machines) with natural 
+    language-processing (in the brain)
+    Mariya Toneva, Leila Wehbe
+16. Enhancing the Transformer with Explicit Relational Encoding for Math Problem Solving
+    Imanol Schlag, Paul Smolensky, Roland Fernandez, Nebojsa Jojic, Jianfeng Gao
+17. Inducing brain-relevant bias in natural language processing models
+    Dan Schwartz , Mariya Toneva, Leila Wehbe
+18. Sparse associative memory based on contextual code learning for disambiguating word senses
+    Max Raphael Sobroza Marques, Tales Marra, Deok-Hee Dufor, Claude Berrou
+19. Structured Sparsification of Gated Recurrent Neural Networks
+    Ekaterina Lobacheva, Nadezhda Chirkova, Aleksandr Markovich, Dmitry Vetrov
+20. Compositionality as Directional Consistency in Sequential Neural Networks
+    Najoung Kim, Tal Linzen
+21. Modelling Working Memory using Deep Recurrent Reinforcement Learning
+    Pravish Sainath, Pierre Bellec, Guillaume Lajoie
+22. Aging Memories Generate More Fluent Dialogue Responses with Memory Augmented Neural Networks
+    Omar U Florez, Erik Muller
+23. On Compositionality in Neural Machine Translation
+    Vikas Raunak, Vaibhav Kumar, Florian Metze, Jamie Callan
+24. Learning to Control Latent Representations on an External Memory for Few-Shot Learning
+    Omar U Florez, Erik Muller
+24. Decoding Affirmative and Negated Action-Related Sentences in the Brain with Distributional
+    Semantic Models
+    Vesna Djokic
+
+(Links to papers will be added soon!)
+
 ## Organizers
 
 - Javier Turek, Intel Labs
